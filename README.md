@@ -1,4 +1,4 @@
-# Team name
+# Sab-bears
 Team slogan 
 
 ## Members:
