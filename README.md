@@ -1,4 +1,4 @@
-# Team name
+# Sad-bears
 Team slogan 
 
 ## Members:
