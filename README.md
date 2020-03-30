@@ -1,4 +1,4 @@
-# Sab-bears
+# Sad-bears
 Team slogan 
 
 ## Members:
