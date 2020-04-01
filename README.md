@@ -1,5 +1,5 @@
 # Sad-bears
-Team slogan 
+Sad-bears 
 
 ## Members:
 * Елена Старцева
